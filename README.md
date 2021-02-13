@@ -8,3 +8,5 @@
 1. [cargo 기본 사용법](./1.cargo.md)
 1. [기본 문법](./2.syntax.md)
 1. [소유권(Ownership)](./3.ownership.md)
+1. [참조(Reference)와 빌림(Borrowing)](./4.reference.md)
+1. [슬라이스](./5.slice.md)
