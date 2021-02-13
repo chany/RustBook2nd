@@ -6,4 +6,4 @@
 ----
 1. [기본환경 및 설치](./0.Rust_Install.md)
 1. [cargo 기본 사용법](./1.cargo.md)
-1. [기본 데이터형](./2.data_type.md)
+1. [기본 문법](./2.syntax.md)
