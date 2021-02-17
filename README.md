@@ -10,3 +10,4 @@
 1. [소유권(Ownership)](./3.ownership.md)
 1. [참조(Reference)와 빌림(Borrowing)](./4.reference.md)
 1. [슬라이스](./5.slice.md)
+1. [구조체(struct)](6.struct.md)
