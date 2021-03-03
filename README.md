@@ -12,3 +12,4 @@
 1. [슬라이스](./5.slice.md)
 1. [구조체(struct)와 메소드(method)](6.struct.md)
 1. [열거형(enum), Option<T>, match, if let](7.enum.md)
+1. [Package, Crate, Module](8.Package.md)
