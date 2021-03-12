@@ -4,14 +4,27 @@
 * 2021년 1월 v1.49로 다시 정리하면서 개인적인 추가설명 더함
 
 ----
-0. [기본환경 및 설치](./0.Rust_Install.md)
+1. [기본환경 및 설치](./0.Rust_Install.md)
 1. [cargo 기본 사용법](./1.cargo.md)
 1. [기본 문법](./2.syntax.md)
 1. [소유권(Ownership)](./3.ownership.md)
+   - 소유권 이동(move), 복제(clone), 복사(copy) 
 1. [참조(Reference)와 빌림(Borrowing)](./4.reference.md)
 1. [슬라이스](./5.slice.md)
+   - String Slice: `&str`
 1. [구조체(struct)와 메소드(method)](6.struct.md)
+   - `struct`, `impl`
 1. [열거형(enum), Option<T>, match, if let](7.enum.md)
+   - `enum`, `struct`
+   - `Option<T>`
+   - `if let`
 1. [Package, Crate, Module](8.Package.md)
+   - `module`, `super`, `self`
+   - `use`
+   - `as`
 1. [Collections](9.Collections.md)
+   - 벡터(Vector), 문자열(String), 해시맵(HashMap)
 1. [에러 처리](10.Error.md)
+   - `panic!`, `Result<T,E>`, `unwrap()`, `expect()`, `?`
+1. [제네릭 타입](11.Generic_Type.md)
+1. [트레잇(trait)](12.Traits.md)
