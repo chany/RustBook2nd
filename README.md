@@ -28,3 +28,5 @@
    - `panic!`, `Result<T,E>`, `unwrap()`, `expect()`, `?`
 1. [제네릭 타입](11.Generic_Type.md)
 1. [트레잇(trait)](12.Traits.md)
+1. [라이프타임(Lifetime)](13.Lifetime.md)
+1. [테스트(Testing)](14.Testing.md)
