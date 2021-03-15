@@ -28,5 +28,14 @@
    - `panic!`, `Result<T,E>`, `unwrap()`, `expect()`, `?`
 1. [제네릭 타입](11.Generic_Type.md)
 1. [트레잇(trait)](12.Traits.md)
+   - trait bounds
+   - blanket implementation
 1. [라이프타임(Lifetime)](13.Lifetime.md)
+   - `fn longest<'a>(x: &'a str, y: &'a str) -> &'a str {...`
+   - lifetime 생략 규칙
+   - `'static`
 1. [테스트(Testing)](14.Testing.md)
+   - `assert!`, `assert_eq!`, `assert_ne!`
+   - `should_panic`
+   - `cargo test` {`--test-threads=1`, `--nocapture` `--ignored`}
+   - `tests` 디렉토리
