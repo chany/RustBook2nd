@@ -39,3 +39,6 @@
    - `should_panic`
    - `cargo test` {`--test-threads=1`, `--nocapture` `--ignored`}
    - `tests` 디렉토리
+1. [클로저(Closure)](15.Closures.md)
+   - 익명 함수
+   - `Fn` 트레잇
