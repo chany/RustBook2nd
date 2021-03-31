@@ -4,7 +4,7 @@
 * 2021년 1월 v1.49로 다시 정리하면서 개인적인 추가설명 더함
 
 ----
-1. [기본환경 및 설치](./0.Rust_Install.md)
+1. [기본환경 및 설치](./0.rust_Install.md)
 1. [cargo 기본 사용법](./1.cargo.md)
 1. [기본 문법](./2.syntax.md)
 1. [소유권(Ownership)](./3.ownership.md)
